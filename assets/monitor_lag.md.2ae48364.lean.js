@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,O as l}from"./chunks/framework.4583c7c8.js";const C=JSON.parse('{"title":"卡顿","description":"","frontmatter":{},"headers":[],"relativePath":"monitor/lag.md","lastUpdated":1681915894000}'),p={name:"monitor/lag.md"},o=l("",6),e=[o];function t(r,c,F,D,y,i){return a(),n("div",null,e)}const b=s(p,[["render",t]]);export{C as __pageData,b as default};
