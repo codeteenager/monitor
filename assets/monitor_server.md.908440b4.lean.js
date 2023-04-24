@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,O as r}from"./chunks/framework.4583c7c8.js";const p=JSON.parse('{"title":"监控服务","description":"","frontmatter":{},"headers":[],"relativePath":"monitor/server.md","lastUpdated":1682317590000}'),o={name:"monitor/server.md"},s=r("",3),n=[s];function _(i,c,d,l,h,m){return t(),e("div",null,n)}const f=a(o,[["render",_]]);export{p as __pageData,f as default};
